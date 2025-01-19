@@ -1,0 +1,5 @@
+C:\Users\-\Desktop\EXAM\task7\obj\Debug\net9.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\EXAM\task7\obj\Debug\net9.0\task7.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\EXAM\task7\obj\Debug\net9.0\task7.AssemblyInfo.cs
+C:\Users\-\Desktop\EXAM\task7\obj\Debug\net9.0\task7.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\EXAM\task7\obj\Debug\net9.0\task7.sourcelink.json
